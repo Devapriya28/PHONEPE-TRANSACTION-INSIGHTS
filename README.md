@@ -42,7 +42,7 @@ PhonePe, one of India’s leading digital payment platforms, powers this dashboa
 
 Datafetch----------jupyter notebook
 
-phonepe.py---------Streamlit
+streamlit_app.py---------Streamlit
 
 
 
