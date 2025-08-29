@@ -40,12 +40,10 @@ PhonePe, one of India’s leading digital payment platforms, powers this dashboa
 
 ##  Project Structure  
 
- phonepay.py                 # Streamlit app source code
- datafetch_notebook.ipynb    # Jupyter notebook for data extraction
- PhonePe_Insights_Report.docx
- Dashboard_Visuals.pbix
- data                        # Raw JSON files from PhonePe Pulse
- README.md                   # Project documentation
- ✅ Modern, branded **UI with Streamlit**  
+Datafetch----------jupyter notebook
+
+phonepe.py---------Streamlit
+
+
 
  
